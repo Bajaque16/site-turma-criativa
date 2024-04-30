@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabeçalho">
+        <img class="cabeçalho-imagem" src="cabeçalho.png" alt="Barbara Rocha">
+        <ul class="cabeçalho lista">
+            <li class="cabeçalho-lista-item">Sobre mim</li>
+            <li class="cabeçalho-lista-item">Hobbies</li>
+            <li class="cabeçalho-lista-item">Gostos Pessoais</li>
+        </ul>
+     </header>
+     <section class="Sobre mim"></section>
+     <h2 class="sobre mim-titulo">Sobre mim</h2>
+     <p class="sobre-mim-texto-um">Meu nome é Barbara Jaqueline Da Silva Rocha, tenho 16 anos e moro na cidade de Cambé, PR. Tenho duas cachorrinhas, uma se chama Pipoca e tem 9 anos, a outras se chama Tequila e tem 1 ano. Frequento o Colégio Estadual Antônio Raminelli no 2 ano do Ensino Médio. No momento penso em fazer uma faculdade na área da saúde ou prestar concurso para Polícia Federal.</p>
+<p class="sobre-mim-texto-dois">Frequento o Colégio Estadual Antônio Raminelli no 2 ano do Ensino Médio.
+    No momento penso em fazer uma faculdade na área da saúde ou prestar concurso para Polícia Federal.</p>
+<p class="sobre-mim-texto-tres">Tenho duas cachorrinhas, uma se chama Pipoca e tem 9 anos, a outras se chama Tequila e tem 1 ano.
+</p>
+
+"
+</body>
+</html>

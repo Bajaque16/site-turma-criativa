@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: "Lobster Two", sans-serif;
+}
+
+.cabeçalho {
+     background-color: #BA68FB;
+    color: #000;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 18px 0;
+
+}
+
+.cabeçalho-imagem{    
+ width: 60%;
+ 
+}
+  .cabeçalho-lista-item{
+  display: inline-block;
+  margin: 0 16px;
+  font-size: 26px;
+  }
+
+  .sobre-mim{
+    background-image: -o-linear-gradient(#BA68FB, #dd7df5);
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+  .sobre-mim-div-conteudo{
+    width: 35%;
+  }
+
+.sobre-mim-titulo{
+    padding: 24px 0;
+}
+
+.Hobbies-div{
+    text-align: center;
+}
+
+.Hobbies-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.Gostos-pessoais-div{
+  text-align: center;
+}
+
+.Gostos-pessoais-titulo{
+  text-align: center;
+  padding: 50px 0;
+}
